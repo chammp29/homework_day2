@@ -1,0 +1,44 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 70px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+}
+
+ul {
+    width: 20%;
+    margin: auto;
+}
+
+ol {
+    width: 20%;
+    margin: 50px auto;
+    
+}
+
+a {
+    padding: 10px;
+}
+
+li {
+    padding: 10px;
+}
+
